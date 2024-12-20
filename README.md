@@ -27,5 +27,5 @@ This is a Flutter application that enables users to navigate between screens usi
 
 1. Clone the repository:
    ```bash
-   git clone
+   git clone https://github.com/MUmairIQBAL/Voice_Control_Flutter_App.git
    cd voice-control-app
